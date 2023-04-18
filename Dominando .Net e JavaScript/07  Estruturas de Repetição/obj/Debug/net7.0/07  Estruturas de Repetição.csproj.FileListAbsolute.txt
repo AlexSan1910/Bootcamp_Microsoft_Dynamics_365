@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\bin\Debug\net7.0\07  Estruturas de Repetição.exe
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\bin\Debug\net7.0\07  Estruturas de Repetição.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\bin\Debug\net7.0\07  Estruturas de Repetição.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\bin\Debug\net7.0\07  Estruturas de Repetição.dll
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\bin\Debug\net7.0\07  Estruturas de Repetição.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.dll
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\refint\07  Estruturas de Repetição.dll
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\07  Estruturas de Repetição.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\07  Estruturas de Repetição\obj\Debug\net7.0\ref\07  Estruturas de Repetição.dll
