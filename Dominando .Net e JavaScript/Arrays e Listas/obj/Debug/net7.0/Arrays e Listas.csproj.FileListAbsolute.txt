@@ -1,0 +1,5 @@
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\Arrays e Listas\obj\Debug\net7.0\Arrays e Listas.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\Arrays e Listas\obj\Debug\net7.0\Arrays e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\Arrays e Listas\obj\Debug\net7.0\Arrays e Listas.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\Arrays e Listas\obj\Debug\net7.0\Arrays e Listas.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Bootcamp_Dynamic_Microsft_365\Dominando .Net e JavaScript\Arrays e Listas\obj\Debug\net7.0\Arrays e Listas.csproj.CoreCompileInputs.cache
